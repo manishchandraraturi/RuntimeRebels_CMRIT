@@ -72,3 +72,32 @@ Install the required dependencies:
 
 ```bash
 pip install numpy pandas scikit-learn
+```
+
+Train and evaluate the model (writes `results.json` and `demo_patient.json`):
+
+```bash
+python twin_poc.py
+```
+
+Open `dashboard.html` in any web browser to view the clinician dashboard (no server needed).
+
+## 9. Demo Video
+
+still researching
+
+## 10. Architecture Diagram
+
+[docs/architecture.pdf](docs/architecture.pdf)
+
+## 11. Presentation
+
+[docs/presentation.pdf](docs/presentation.pdf)
+
+## 12. Open-Source License
+
+This project is released under the **MIT License**. See [LICENSE](LICENSE).
+
+## 13. Public Accessibility
+
+This repository, all files in it, and the demo video link are publicly accessible without any additional permissions.
